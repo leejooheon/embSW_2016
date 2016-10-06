@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"sum_test.h"
+//#include"sum_test.h"
 int main(void)
 {
 	printf("hello~\n");
