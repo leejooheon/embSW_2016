@@ -7,6 +7,7 @@ int main(void)
 	printf("2 : merge test\n");
 	printf("1 : debug branch~!\n");
 	printf("2 : debug branch~!\n");
+	printf("github test\n");
 //	printf("sum : %d\n", sum(10,10));
 	return 0;
 }
